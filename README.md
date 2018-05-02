@@ -10,7 +10,10 @@ To install:
   5. Save and close the file. 
   6. Open Metamorph, and add the mm "custom driver". In the DLL file path enter the triggerscope dll location. 
   7. close and reopn the driver. 
-  8. You should now have devices populated in the driver. If noe check that you have Microsoft Visual Studio C++ Runtime 2017 installed. 
-  9. Any issues check the output in the triggerscope debug file which is created when triggerscope is used. It's located in c:\mm
-  
+
+You should now have devices populated in the driver. If not:
+  - check that you have Microsoft Visual Studio C++ Runtime 2017 installed.
+  - Any issues check the output in the debug file which is created when the triggerscope is used. 
+  - It's located in c:\mm. 
+  - For support email Austin Blanco, at Advanced Research Consulting - austin@austinblanco.com
   
