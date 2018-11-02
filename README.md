@@ -2,6 +2,8 @@
 Metamorph Driver for Triggerscope Device Controllers
 Initial Release 
 
+***This is the 57,600 Baud version of the driver***
+
 To install:
   1. Copy both the txt file and the DLL to your C:\MM directory
   2. Attached your triggerscope, and locate the COM number it's using by checking the windows device manager.
